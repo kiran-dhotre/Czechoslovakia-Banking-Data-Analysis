@@ -22,3 +22,20 @@ This project analyzes banking financial data using MySQL and Power BI, focusing 
 - Identified duplicate transaction records and data-quality issues.
 - Analyzed transaction trends, bank-wise activity, and transaction types.
 - Created a Power BI dashboard to present financial insights.
+
+## Dashboard Screenshots
+
+### 1. Overview Dashboard
+![Overview Dashboard](bank_overview.png)
+
+### 2. Transactions Analysis
+![Transactions Analysis](bank_transaction.png)
+
+### 3. Customers Analysis
+![Customers Analysis](bank_customers.png)
+
+### 4. Loans & Cards Analysis
+![Loans & Cards Analysis](bank_loan_and_card_analysis.png)
+
+### 5. Business Insights
+![Business Insights](business_insights.png)
